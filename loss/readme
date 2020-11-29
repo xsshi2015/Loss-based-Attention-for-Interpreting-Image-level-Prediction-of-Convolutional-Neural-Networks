@@ -1,0 +1,2 @@
+weight_loss.py is for single-label classification
+weight_sigmoid_loss is for multi-label classification
