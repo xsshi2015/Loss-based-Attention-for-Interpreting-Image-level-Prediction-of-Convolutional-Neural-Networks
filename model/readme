@@ -1,0 +1,7 @@
+conv_resnet.py is convolutional architecture+loss-attention with resnet as the backbone for the image with a size of 32*32
+
+conv_resnet_stride_2.py is convolutional architecture+loss-attention with resnet as the backbone for the image with a size of 64*64
+
+capsule_resnet.py is capsule architecture+loss-attention with resnet as the backbone for the image with a size of 32*32
+
+vgg_Capsule_Net is capsule architecture+loss-attention with VGG as the backbone for the image with a size of 32*32
